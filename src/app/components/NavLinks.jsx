@@ -8,10 +8,10 @@ const NavLinks = () => {
         <Link href={"/"}>Home</Link>
       </li>
       <li>
-        <Link href={"/"}>About</Link>
+        <Link href={"/about"}>About</Link>
       </li>
       <li>
-        <Link href={"/"}>Posts</Link>
+        <Link href={"/posts"}>Posts</Link>
       </li>
     </>
   );
